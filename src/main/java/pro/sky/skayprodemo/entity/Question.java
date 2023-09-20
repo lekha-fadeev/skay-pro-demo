@@ -2,7 +2,6 @@ package pro.sky.skayprodemo.entity;
 
 import java.util.Objects;
 
-
 public class Question {
 
     private final String question;
