@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.Collection;
 import java.util.Random;
-
 @Service
 public class MathQuestionService implements QuestionService {
 
